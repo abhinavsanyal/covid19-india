@@ -39,7 +39,7 @@
     "connected-react-router": "4.5.0",
     "cookie-parser": "^1.4.5",
     "express": "^4.16.2",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "moment": "^2.20.1",
     "mongoose": "^5.9.6",
     "node-sass": "^4.13.1",
